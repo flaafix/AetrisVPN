@@ -20,5 +20,7 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@://github.com"
-          git add AetrisVPN.txt
-          (git diff --quiet && git diff --staged --quiet) || (git commit -m "Автообновление подписки" && git pull --rebase origin main && git push origin main)
+          git add configs.txt
+          git commit -m "Принудительное автообновление подписки" || true
+          git pull --rebase origin main
+          git push origin main
