@@ -2,7 +2,7 @@ name: Mirror AetrisVPN Configs
 
 on:
   schedule:
-    - cron: '*/5 * * * *'  # Запуск каждый час
+    - cron: '*/30 * * * *'  # Запуск каждый час
   workflow_dispatch:     # Кнопка для ручного запуска
 
 jobs:
