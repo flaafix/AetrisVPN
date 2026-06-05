@@ -2,8 +2,13 @@ name: Mirror AetrisVPN Configs
 
 on:
   schedule:
-    - cron: '*/30 * * * *'  # Запуск каждый час
+    # Запуск каждые 30 минут (из-за лимитов GitHub Actions запуск может задерживаться)
+    - cron: '*/30 * * * *'
   workflow_dispatch:     # Кнопка для ручного запуска
+
+# Даем права боту на запись изменений в репозиторий
+permissions:
+  contents: write
 
 jobs:
   mirror:
@@ -19,8 +24,15 @@ jobs:
       - name: Commit and push if changed
         run: |
           git config user.name "github-actions[bot]"
-          git config user.email "41898282+github-actions[bot]@://github.com"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add AetrisVPN.txt
-          git commit -m "Принудительное автообновление подписки" || true
-          git pull --rebase origin main
-          git push origin main
+          
+          # Проверяем, изменился ли файл, чтобы не плодить пустые коммиты
+          if git diff --staged --quiet; then
+            echo "Изменений в конфигах нет. Пропускаем коммит."
+          else
+            git commit -m "Принудительное автообновление подписки"
+            git pull --rebase origin main
+            git push origin main
+          fi
+          
