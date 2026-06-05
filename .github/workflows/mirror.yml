@@ -14,7 +14,7 @@ jobs:
 
       - name: Download configs from Google Drive
         run: |
-          curl -L "https://google.com"
+          curl -L "https://drive.usercontent.google.com/download?id=1uTVZsfiqGGzV5sLTjcoaf2cotQSQPSBg&export=download&confirm=t"
 
       - name: Commit and push if changed
         run: |
