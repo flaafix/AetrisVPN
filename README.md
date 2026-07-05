@@ -7,7 +7,6 @@
 
 
 # Автоматический белый список (Whitelist) для VPN
-![Static Badge](https://img.shields.io/badge/GL_Proxy-supported-green)
 ![Static Badge](https://img.shields.io/badge/NekoBox-supported-green)
 ![Static Badge](https://img.shields.io/badge/v2rayNG-supported-green)
 ![Static Badge](https://img.shields.io/badge/Happ-supported-green)
