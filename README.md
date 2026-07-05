@@ -7,6 +7,10 @@
 
 
 # Автоматический белый список (Whitelist) для VPN
+![Static Badge](https://img.shields.io/badge/GL_Proxy-supported-green)
+![Static Badge](https://img.shields.io/badge/NekoBox-supported-green)
+![Static Badge](https://img.shields.io/badge/v2rayNG-supported-green)
+![Static Badge](https://img.shields.io/badge/Happ-partial_support-yellow)
 
 Репозиторий содержит актуальные списки доменов и IP-адресов, которые направляются в обход VPN-соединения (прямое подключение). Все данные обновляются автоматически **каждый час**.
 
