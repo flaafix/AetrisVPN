@@ -1,6 +1,6 @@
 #profile-title: AetrisVPN White list
 #profile-update-interval: 1
-#announce: ⚡️ AetrisVPN | версия 9321 | 650 конфигов (✅649 🟡1 ⚪0) | обновлено: 7/8/2026 03:07 PM | след: 7/8/2026 04:07 PM ⚡️
+#announce: ⚡️ AetrisVPN | версия 9324 | 650 конфигов (✅649 🟡1 ⚪0) | обновлено: 7/8/2026 03:18 PM | след: 7/8/2026 04:18 PM ⚡️
 #support-url: https://t.me/AetrisVPN
 #profile-web-page-url: https://pay.cloudtips.ru/p/6f2a7544
 #hide-settings: 1
