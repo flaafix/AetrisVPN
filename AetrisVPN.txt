@@ -1,6 +1,6 @@
 #profile-title: AetrisVPN White list
 #profile-update-interval: 1
-#announce: ⚡️ AetrisVPN | версия 4926 | 650 конфигов (✅649 🟡1 ⚪0) | обновлено: 8/16/2026 12:07 PM | след: 8/16/2026 01:07 PM ⚡️
+#announce: ⚡️ AetrisVPN | версия 4931 | 650 конфигов (✅649 🟡1 ⚪0) | обновлено: 8/16/2026 12:42 PM | след: 8/16/2026 01:42 PM ⚡️
 #support-url: https://t.me/AetrisVPN
 #profile-web-page-url: https://pay.cloudtips.ru/p/6f2a7544
 #hide-settings: 1
@@ -613,8 +613,6 @@ vless://24d6b0f3-6a7a-47a8-b0b3-6a75d366860e@213.178.155.239:443?encryption=none
 vless://34a38f21-310e-4da5-b549-35076e16993c@polbridge1.frost-api.com:443?security=reality&flow=xtls-rprx-vision&pbk=SHIYN7zN9aFVxwKK-bIvDbhUgtHvlBhDi1qSl2sWwRw&sid=e7&sni=eh.vk.com&type=tcp&headerType=none&host=eh.vk.com&path=%2F&fp=ios#AetrisVPN White list ┃ ✅ SNI: eh.vk.com ┃ 🇧🇷 Бразилия
 vless://81ec6ede-0a86-4197-a106-d71c7d643ae4@213.178.155.239:443?encryption=none&fp=firefox&mode=gun&pbk=2L51CpAm6tig9Q0AfwWlic5q8lNsHxjXuA1o3iT0HlM&security=reality&serviceName=bridge-akenai-grpc-max&sid=0b631cde39e6283a&sni=max.ru&type=grpc#AetrisVPN White list ┃ ✅ SNI: max.ru ┃ 🇷🇺 Россия
 vless://ad17ed00-5bb6-4fa4-8be1-a545a9fbda6e@45.84.1.247:8443?security=reality&type=raw&packetEncoding=xudp&sni=rbc.ru&fp=safari&flow=xtls-rprx-vision&sid=849cac6150823b&pbk=E_hcnZ6IvHDD2IFy8UGRvwWXHSqRrF--Ply0hJXSd30#AetrisVPN White list ┃ ✅ SNI: rbc.ru ┃ 🇷🇺 Россия
-vless://155e8dd4-a559-407a-9ea8-13a5e829f066@188.225.81.61:4100?encryption=none&security=none&type=ws&host=live.ok.ru&path=%2Fv1#AetrisVPN White list ┃ ✅ SNI: live.ok.ru ┃ 🇷🇺 Россия
-vless://5d0206d9-fb42-4c8b-a84b-3d95ab0f42c7@109.73.196.160:2200?encryption=none&security=none&sni=rzd.ru&type=ws&path=%2Fv1#AetrisVPN White list ┃ ✅ SNI: rzd.ru ┃ 🇷🇺 Россия
 vless://72d1797c-cef8-410a-b8fd-db9104dc3cb0@betty.ns.cloudflare.com:443?encryption=none&fp=chrome&host=amooaliii.net&path=%2Fjdhfyws&security=tls&sni=amooaliii.net&type=ws#AetrisVPN White list ┃ ✅ SNI: amooaliii.net ┃ 🇫🇷 Франция
 vless://0a27acbc-64e5-4b23-96c5-9fc349b4e9f6@84.201.128.76:443?security=reality&encryption=none&pbk=66kZLshj9fxAIQA7NsABohNwgiOcY71enc6as_Frqw0&headerType=&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=smartcaptcha.yandexcloud.net&sid=3c1523da43287ec4#AetrisVPN White list ┃ ✅ SNI: smartcaptcha.yandexcloud.net ┃ 🇷🇺 Россия
 vless://33e1a095-1e25-4198-bfe7-ec312e4f98ee@nodejs.org:80?path=/?ed&security=none&encryption=none&host=CREDibLe-pLaNt7ddV4jJ7et.OnEeaT.CO.&type=ws&note=@FreeOnlineVPN#AetrisVPN White list ┃ ✅ SNI: CREDibLe-pLaNt7ddV4jJ7et.OnEeaT.CO. ┃ 🇳🇱 Нидерланды
@@ -654,3 +652,5 @@ vless://df666979-d7ce-4e34-ae23-05ac01bd2476@usa.frdmhere.com:443?mode=auto&secu
 vless://4890de01-328a-47fa-8d9e-d9671a5f2358@84.201.180.178:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=firefox&sni=smartcaptcha.yandexcloud.net&pbk=5QEC0YA__ppxXOhC_nMbA0lwi3BSO-PxCySRkWTXXGk&sid=5b1dde1bbe5b42b4#AetrisVPN White list ┃ ✅ SNI: smartcaptcha.yandexcloud.net ┃ 🇳🇱 Нидерланды
 vless://4c0e1fb5-08a6-4809-8723-9721f1b1990b@nl.prx1.raketa-balance.com:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=rutube.ru&fp=qq&security=reality&pbk=JaP4bhvIMW-l7T0_RkLra59DeBYI6W9XemKa8MyRPSY&sid=6c6082a2223c1d03#AetrisVPN White list ┃ ✅ SNI: rutube.ru ┃ 🇳🇱 Нидерланды
 vless://eee748e9-54ad-4ade-be49-0407f32a0e51@molniya-2.molniya-api.com:8443?security=reality&encryption=none&pbk=ZP8I7FccLw9aHYUuYzIg_uZvck9ZbJc4r95YLnEJ4Qk&headerType=&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=images.apple.com&sid=453256#AetrisVPN White list ┃ ✅ SNI: images.apple.com ┃ 🇵🇱 Польша
+vless://c5d5e9a0-ff68-4268-b18c-4701f59910db@84.201.180.178:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=firefox&sni=smartcaptcha.yandexcloud.net&pbk=5QEC0YA__ppxXOhC_nMbA0lwi3BSO-PxCySRkWTXXGk&sid=5b1dde1bbe5b42b4#AetrisVPN White list ┃ ✅ SNI: smartcaptcha.yandexcloud.net ┃ 🇳🇱 Нидерланды
+vless://ddc10946-d4f9-4cb9-9493-b439705ce2ad@nl2.nvrsk-not-news.ru:41698?type=tcp&security=reality&encryption=none&fp=firefox&pbk=CGy3XQXti0IWqe5GK93fH5kolq7zafDhFZvkedRFKR8&sid=455b&sni=www.vk.com&spx=/bakV6xaC0P3teoL#AetrisVPN White list ┃ ✅ SNI: www.vk.com ┃ 🇳🇱 Нидерланды
