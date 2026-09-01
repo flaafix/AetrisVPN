@@ -1,6 +1,6 @@
 #profile-title: AetrisVPN White list
 #profile-update-interval: 1
-#announce: ⚡️ AetrisVPN | версия 8378 | 675 конфигов (✅670 🟡5 ⚪0) | обновлено: 9/1/2026 11:22 AM | след: 9/1/2026 12:22 PM ⚡️
+#announce: ⚡️ AetrisVPN | версия 8381 | 675 конфигов (✅670 🟡5 ⚪0) | обновлено: 9/1/2026 11:42 AM | след: 9/1/2026 12:42 PM ⚡️
 #support-url: https://t.me/AetrisVPN
 #profile-web-page-url: https://pay.cloudtips.ru/p/6f2a7544
 #hide-settings: 1
@@ -675,7 +675,7 @@ vless://af555232-0c87-487b-bcb0-87a378a1a371@usa6.odavpn.online:443?Telegram=%40
 vless://41fc2564-31e5-4570-b351-1d39453603cd@bez3.stream-room.com:8080?type=xhttp&security=reality&fp=chrome&pbk=XBePIY00JetBf0pbmcx-Dvu8XsZ-l079GiHf93HhS0Y&sid=6d6f13013d3e1d0c&sni=ozon.ru&mode=auto&extra={"scMaxEachPostBytes":1000000.0,"scMaxConcurrentPosts":100.0,"scMinPostsIntervalMs":30.0,"xPaddingBytes":"100-1000","noGRPCHeader":false}#AetrisVPN White list ┃ ✅ SNI: ozon.ru ┃ 🇪🇪 Эстония
 vless://ba2630d8-d6c4-49ff-b5d5-2c24330dd245@ss.l00l00.vip:2096?type=grpc&headerType=none&security=reality&encryption=none&sni=id.vk.com&fp=chrome&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&serviceName=vless-grpc-reality#AetrisVPN White list ┃ ✅ SNI: id.vk.com ┃ 🇩🇪 Германия
 vless://5a6b00b0-5554-42d1-a1e7-3c93d5b21e9d@ru01.livevpns.ru:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=ads.x5.ru&fp=chrome&pbk=heS5WDALXdQlaFvF-Ltdwuh9Khi0AJGIJ542cLb2YW0&type=tcp&headerType=none#AetrisVPN White list ┃ ✅ SNI: ads.x5.ru ┃ 🇷🇺 Россия
-vless://2e5502fe-a951-4b2f-90fb-3570c8e18b98@ru-at.techdatacloud.org:8080?encryption=none&security=reality&sni=cloud.mail.ru&fp=firefox&pbk=gi3kQqVpq3ZMOI6iKS4GMu25eIJH0ZT6xKheel7LVVU&sid=6e643d2d54ab470d&spx=%2F&type=xhttp&path=%2F&mode=auto#AetrisVPN White list ┃ ✅ SNI: cloud.mail.ru ┃ 🇦🇹 Австрия
-vless://2e5502fe-a951-4b2f-90fb-3570c8e18b98@ru-at.techdatacloud.org:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=cloud.mail.ru&fp=firefox&pbk=N_5NYueKkI600dDhHIJlFQyW2ygRn224Z8N2jSwZcnE&sid=0234177e87d942bf&spx=%2F&type=tcp&headerType=none#AetrisVPN White list ┃ ✅ SNI: cloud.mail.ru ┃ 🇦🇹 Австрия
-trojan://2e5502fe-a951-4b2f-90fb-3570c8e18b98@ru-at.techdatacloud.org:8443?security=reality&sni=cloud.mail.ru&fp=firefox&pbk=p6mMgExrB_TqQXaOJD_yuilS1gRB0SShvROH_cPixwc&sid=c5f8dde983234321&spx=%2F&type=tcp&headerType=none#AetrisVPN White list ┃ ✅ SNI: cloud.mail.ru ┃ 🇦🇹 Австрия
-trojan://2e5502fe-a951-4b2f-90fb-3570c8e18b98@multi2.techdatacloud.org:2088?security=reality&sni=cloud.mail.ru&fp=firefox&pbk=HCR7-rUZoehVQi9BKdHBHSg9D2GYhnlogMKWIO66Wlw&sid=7c1a4b90&spx=%2F&type=tcp&headerType=none#AetrisVPN White list ┃ ✅ SNI: cloud.mail.ru ┃ 🇧🇾 Беларусь
+vless://1031c52b-a421-4afa-9ca5-94be0912ed6d@72.56.7.25:9443?security=reality&encryption=none&pbk=atgfpCNlrnX_AGy2bPpIXyOhNRNkx2l2Ne-a_OvC8Q0&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=ads.x5.ru&sid=0123456789abcdef#AetrisVPN White list ┃ ✅ SNI: ads.x5.ru ┃ 🇷🇺 Россия
+vless://ba222add-6ac1-45f1-9a18-f91cb38e324f@201.51.1.84:16923?security=reality&sni=api-maps.yandex.ru&type=grpc&serviceName=neurex&fp=firefox&pbk=_QeslG3rHGM7DoM99pYC8-jpc16pM2MbNZ6NRMoxmHA&sid=10ffb85da1c2d986#AetrisVPN White list ┃ ✅ SNI: api-maps.yandex.ru ┃ 🇷🇺 Россия
+vless://9fd78c11-d331-4c1d-ba6c-046e970c1464@147.45.134.184:8443?encryption=none&fp=firefox&pbk=FnoA9F_919MbdRH1bFYENR1Yl9C0MeDdb47rZ4R-IGo&security=reality&sid=dd910a5b30&sni=dzen.ru&spx=%2Fj0wwmtt5ighhegg&type=tcp#AetrisVPN White list ┃ ✅ SNI: dzen.ru ┃ 🇳🇱 Нидерланды
+vless://ed2c5f6c-8383-4f7a-a231-c28916489f76@sw.deeplcdn.com:40443?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=firefox&sni=tv.apple.com&pbk=-cxFcuI9vCkNZvlwGFms4bENl_cZbOz2pUMOVCKB4j0&sid=e6bbe5cbfd3a1c9f#AetrisVPN White list ┃ ✅ SNI: tv.apple.com ┃ 🇸🇪 Швеция
