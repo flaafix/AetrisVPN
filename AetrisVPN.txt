@@ -1,6 +1,6 @@
 #profile-title: AetrisVPN White list
 #profile-update-interval: 1
-#announce: ⚡️ AetrisVPN | версия 13028 | 600 конфигов (✅600 🟡0 ⚪0) | обновлено: 9/22/2026 11:07 PM | след: 9/23/2026 12:07 AM ⚡️
+#announce: ⚡️ AetrisVPN | версия 13030 | 600 конфигов (✅600 🟡0 ⚪0) | обновлено: 9/22/2026 11:22 PM | след: 9/23/2026 12:22 AM ⚡️
 #support-url: https://t.me/AetrisVPN
 #profile-web-page-url: https://pay.cloudtips.ru/p/6f2a7544
 #hide-settings: 1
@@ -602,5 +602,5 @@ vless://4fdec620-73bb-40a7-a8d5-2570a59f1832@45.197.134.49:8443/?type=tcp&encryp
 vless://4fdec620-73bb-40a7-a8d5-2570a59f1832@bypass.ch-gt-01.com:8443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=storage.yandex.net&fp=chrome&security=reality&pbk=8qHRGcCezzSu4S-Cz9l19BNRLWm4MkaSwZV3dNrLEwc&sid=d515d6cfdfe60b02#AetrisVPN White list ┃ ✅ SNI: storage.yandex.net ┃ 🇩🇪 Германия
 vless://52faee73-e0fe-4661-992d-67259257170f@45.206.0.41:8443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=storage.yandex.net&security=reality&pbk=dY9SNEllJMW63xo-JdXufhmjAxB_4uFw_QMjgufjiD8&sid=ea10cd5686751ec5#AetrisVPN White list ┃ ✅ SNI: storage.yandex.net ┃ 🇩🇪 Германия
 vless://52faee73-e0fe-4661-992d-67259257170f@45.206.0.43:8443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=storage.yandex.net&fp=chrome&security=reality&pbk=dY9SNEllJMW63xo-JdXufhmjAxB_4uFw_QMjgufjiD8&sid=ea10cd5686751ec5#AetrisVPN White list ┃ ✅ SNI: storage.yandex.net ┃ 🇩🇪 Германия
-vless://76186f1e-3062-4a2b-98c2-fab3c61a9511@91.224.86.107:9830?mode=gun&security=reality&encryption=none&pbk=bnRIb3Er1i-K6NGGByCO9UbGfOvu43ZoiK7ulPd1SzU&fp=chrome&type=grpc&serviceName=grpc-tunnel&sni=dl.google.com&sid=aabbccdd#AetrisVPN White list ┃ ✅ SNI: dl.google.com ┃ 🇬🇧 Великобритания
-vless://85223e1a-f55d-4d0d-b27d-39e8be49d220@83.147.246.153:4100?path=%2Fv1&security=none&encryption=none&host=live.ok.ru&type=ws#AetrisVPN White list ┃ ✅ SNI: live.ok.ru ┃ 🇷🇺 Россия
+vless://7c9b4360-6be9-47f2-ace9-b87297ea3d8f@157.90.165.181:11762?encryption=none&flow=xtls-rprx-vision&fp=&pbk=R2gKMF0Tetlnesc1pPkZH9NaOeehw-f5_U9JKG_cLjU&security=reality&sni=swdist.apple.com&type=tcp#AetrisVPN White list ┃ ✅ SNI: swdist.apple.com ┃ 🇩🇪 Германия
+vless://b81b4d1b-7f20-48f1-82dc-d24bef898cab@161.97.160.224:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=33zaT3jHXjtynSQ0Ucw9bK92-XH2zolJmuIeZ1XyZB0&security=reality&sid=e6&sni=passport.yandex.ru&type=tcp#AetrisVPN White list ┃ ✅ SNI: passport.yandex.ru ┃ 🇩🇪 Германия
