@@ -1,6 +1,6 @@
 #profile-title: AetrisVPN White list
 #profile-update-interval: 1
-#announce: ⚡️ AetrisVPN | версия 4977 | 550 конфигов (✅550 🟡0 ⚪0) | обновлено: 01.11.2026 12:18 | след: 01.11.2026 13:18 ⚡️
+#announce: ⚡️ AetrisVPN | версия 4978 | 550 конфигов (✅550 🟡0 ⚪0) | обновлено: 11/1/2026 12:23 PM | след: 11/1/2026 01:23 PM ⚡️
 #support-url: https://t.me/AetrisVPN
 #profile-web-page-url: https://pay.cloudtips.ru/p/6f2a7544
 #hide-settings: 1
@@ -553,4 +553,4 @@ vless://6c713691-3ca2-002b-ad25-113d1bed6b03@nl1.fluxorvpn.net:8443?type=grpc&se
 vless://b95a44a7-c684-407b-b57e-e1681d69de90@51.250.77.124:443?encryption=none&flow=xtls-rprx-vision&pbk=mLApF78WJzjM4mijtlx4NPIbSA9Hizk66AVeck51wxY&security=reality&sid=fe2f8495c476efd4&sni=api-maps.yandex.ru&type=tcp#AetrisVPN White list ┃ ✅ SNI: api-maps.yandex.ru ┃ 🇩🇪 Германия
 vless://dc137dce-0348-4c8d-8201-4210221a59cd@5.42.114.21:8443?type=http&headerType=none&security=reality&encryption=none&sni=music.yandex.ru&fp=firefox&pbk=oeaOjlr45iDKroH7RIhUq-epbwnRAmG7jeXZHlbSzj4&sid=835bff7d47836e88&spx=%2F9adaac8a676afe3&path=%2F029d7a23f5ba&mode=auto&extra=%7B%22mode%22%3A%20%22auto%22%2C%20%22xPaddingBytes%22%3A%20%22100-1000%22%7D#AetrisVPN White list ┃ ✅ SNI: music.yandex.ru ┃ 🇺🇸 США
 vless://71031aa1-067e-425e-97f5-37875f838a10@51.250.42.73:8443?security=reality&type=tcp&sni=api-maps.yandex.ru&fp=chrome&sid=c2ec7bbfdbbad490&pbk=8j9xx2O2pywcSy1EiGsMALbyzZXLs2EEbihC-E9E7nw#AetrisVPN White list ┃ ✅ SNI: api-maps.yandex.ru ┃ 🇩🇪 Германия
-vless://2d2f710b-574c-43e7-bc8c-8d69c3e7806a@185.173.147.176:30447?security=reality&encryption=none&pbk=516PSdm_rjV1YdoGT8npOHTH3u8SfiD-2gV-Tkax02g&headerType=&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=ok.ru&sid=850a8440dff47fe2#AetrisVPN White list ┃ ✅ SNI: ok.ru ┃ 🇺🇸 США
+vless://d7ff1a6d-529e-4260-aa46-3c8a7fd681f4@178.72.167.151:443?path=%2FeCuiEa7kedJ1UIGB3Gbgdt3XeUd&security=reality&encryption=none&pbk=54p7hD_YYV5f2ATL7rTBk4NG_KhStO76-1_tSKmXah8&host=2gis.ru&fp=firefox&type=xhttp&sni=2gis.ru&sid=d45603#AetrisVPN White list ┃ ✅ SNI: 2gis.ru ┃ 🇬🇧 Великобритания
